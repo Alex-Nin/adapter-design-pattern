@@ -22,8 +22,12 @@ To set up and run this project locally:
 
 ## Usage
 
-To run the program and see the adapter pattern in action, execute the following command:
+To run the programexecute the following command in your terminal in the program directory, depending on your Python environment:
 
+```bash
+python adapter.py
+```
+or
 ```bash
 python3 adapter.py
 ```
