@@ -22,7 +22,7 @@ To set up and run this project locally:
 
 ## Usage
 
-To run the programexecute the following command in your terminal in the program directory, depending on your Python environment:
+To run the program, execute the following command in your terminal in the program directory, depending on your Python environment:
 
 ```bash
 python adapter.py
